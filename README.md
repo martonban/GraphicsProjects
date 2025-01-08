@@ -9,4 +9,4 @@ Graphics programming projects wich includes graphics backend (using APIs like Op
 Technical Artist projects.
 
 # 🎨 Art
-Look Development projects with different tools like blender, Unity or Substance Designer. 
+Look Development projects with different tools like blender, Unity, Asprite, PixelOver or Substance Designer. 
