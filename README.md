@@ -1,12 +1,15 @@
 # Graphics Projects
-## Currently I am working on my big big projects. Until then this list will be empty :/
-I love Computer Graphics. In this repository you can find my quality projects I did in Computer Graphics. Because of my passion about this topic you can find a wide selection of projcets from engineering to artistic projects. Note these are my quality projects. You can find mine less impressive projects at my [Artstation profile](https://www.artstation.com/martonban) or my [Project](https://github.com/martonban/Projects) repository on GitHub.
+This repository contains my smaller-scale computer graphics projects as well as other low-level or core technology projects. The list includes the project names, brief descriptions, and a few screenshots. Each project will also have a link directing to its source code.
 
-# ⚙️ Engineering 
-Graphics programming projects wich includes graphics backend (using APIs like OpenGL etc.) or advanced shader programming in GLSL or HLSL. 
+# [WIP]RenderLamp
+RenderLamp is a simple 3D DCC tool with a ray tracing engine implemetation. This project is my first ever big C++ project. <br>
+[source code](https://github.com/martonban/RenderLamp)
 
-# 👨🏻‍💻 Technical Art
-Technical Artist projects.
+# Shader Programming
+This repository contains various small shader programming demos. I have tried to incorporate as many languages, tools, and techniques as possible.<br>
+[source code](https://github.com/martonban/ShaderProgramming) <br><br>
+![Képernyőkép 2025-05-19 135122](https://github.com/user-attachments/assets/20c9d35f-5701-4e38-9c44-3d0fdc8656b4)
 
-# 🎨 Art
-Look Development projects with different tools like blender, Unity, Asprite, PixelOver or Substance Designer. 
+# Software Renderer
+This project is my first software renderer. It includes implementations of projection, rasterization, model loading, and much more. <br>
+[source code](https://github.com/martonban/SoftwareRenderer)
