@@ -3,5 +3,4 @@ This repository contains my smaller-scale computer graphics projects as well as 
 
 # Math Project
 In this repository, I visualize various mathematical concepts like ray tracing math or implement small gameplay mechanics for practice purposes in Unity.<br>
-[source code](https://github.com/martonban/MathProjects) <br><br>
 ![WorldToLocal](https://github.com/user-attachments/assets/dbb11971-694b-4331-b86d-22a3f636ed9b)
